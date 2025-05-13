@@ -47,4 +47,4 @@ Open a Pull Request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
-For questions or feedback, reach out via your-email@example.com or open an issue on GitHub.
+For questions or feedback, reach out via pratiekbhivgade@gmail.com or open an issue on GitHub.
