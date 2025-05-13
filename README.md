@@ -21,7 +21,7 @@ Hosted on Netlify
 Installation
 To run the project locally:
 
-Clone the repository:git clone https://github.com/your-username/govt-job-portal.git
+Clone the repository:git clone [https://github.com/0xcyberninja-git/Govt.-Job-Portal.git]
 
 
 Navigate to the project folder:cd govt-job-portal
